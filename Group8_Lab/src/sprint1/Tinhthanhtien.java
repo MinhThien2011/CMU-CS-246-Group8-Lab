@@ -1,4 +1,3 @@
-
 package sprint1;
 
 import javax.swing.*;
